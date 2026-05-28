@@ -1,0 +1,170 @@
+[
+  {
+    "id": "SEURS5102",
+    "name": "Enigma1",
+    "model": "Enigma Charger Model S",
+    "manufacturer": "EnigmaCorp",
+    "type": "EV Charger Digital Twin",
+    "powerOutputKw": 50,
+    "location": {
+      "area": "Ursvik",
+      "city": "Sundbyberg",
+      "parkingLot": "Ursvik Car Park",
+      "gpsCoordinates": "59.3731, 17.9352"
+    }
+  },
+  {
+    "id": "SEURS6843",
+    "name": "Enigma2",
+    "model": "Enigma Charger Model S",
+    "manufacturer": "EnigmaCorp",
+    "type": "EV Charger Digital Twin",
+    "powerOutputKw": 50,
+    "location": {
+      "area": "Ursvik",
+      "city": "Sundbyberg",
+      "parkingLot": "Ursvik Car Park",
+      "gpsCoordinates": "59.3731, 17.9352"
+    }
+  },
+  {
+    "id": "SEURS9123",
+    "name": "Enigma3",
+    "model": "Enigma Charger Model X",
+    "manufacturer": "EnigmaCorp",
+    "type": "EV Charger Digital Twin",
+    "powerOutputKw": 150,
+    "location": {
+      "area": "Ursvik",
+      "city": "Sundbyberg",
+      "parkingLot": "Ursvik Car Park",
+      "gpsCoordinates": "59.3731, 17.9352"
+    }
+  },
+  {
+    "id": "SEURS7291",
+    "name": "Enigma4",
+    "model": "Enigma Charger Model X",
+    "manufacturer": "EnigmaCorp",
+    "type": "EV Charger Digital Twin",
+    "powerOutputKw": 150,
+    "location": {
+      "area": "Ursvik",
+      "city": "Sundbyberg",
+      "parkingLot": "Ursvik Car Park",
+      "gpsCoordinates": "59.3731, 17.9352"
+    }
+  },
+  {
+    "id": "SEURS5567",
+    "name": "Enigma5",
+    "model": "Enigma Charger Model S",
+    "manufacturer": "EnigmaCorp",
+    "type": "EV Charger Digital Twin",
+    "powerOutputKw": 50,
+    "location": {
+      "area": "Ursvik",
+      "city": "Sundbyberg",
+      "parkingLot": "Ursvik Car Park",
+      "gpsCoordinates": "59.3731, 17.9352"
+    }
+  },
+  {
+    "id": "SEURS8092",
+    "name": "Enigma6",
+    "model": "Enigma Charger Model S",
+    "manufacturer": "EnigmaCorp",
+    "type": "EV Charger Digital Twin",
+    "powerOutputKw": 50,
+    "location": {
+      "area": "Ursvik",
+      "city": "Sundbyberg",
+      "parkingLot": "Ursvik Car Park",
+      "gpsCoordinates": "59.3731, 17.9352"
+    }
+  },
+  {
+    "id": "SEURS6345",
+    "name": "Enigma7",
+    "model": "Enigma Charger Model X",
+    "manufacturer": "EnigmaCorp",
+    "type": "EV Charger Digital Twin",
+    "powerOutputKw": 150,
+    "location": {
+      "area": "Ursvik",
+      "city": "Sundbyberg",
+      "parkingLot": "Ursvik Car Park",
+      "gpsCoordinates": "59.3731, 17.9352"
+    }
+  },
+  {
+    "id": "SEURS9876",
+    "name": "Enigma8",
+    "model": "Enigma Charger Model X",
+    "manufacturer": "EnigmaCorp",
+    "type": "EV Charger Digital Twin",
+    "powerOutputKw": 150,
+    "location": {
+      "area": "Ursvik",
+      "city": "Sundbyberg",
+      "parkingLot": "Ursvik Car Park",
+      "gpsCoordinates": "59.3731, 17.9352"
+    }
+  },
+  {
+    "id": "SEURS7742",
+    "name": "Enigma9",
+    "model": "Enigma Charger Model Y",
+    "manufacturer": "EnigmaCorp",
+    "type": "EV Charger Digital Twin",
+    "powerOutputKw": 250,
+    "location": {
+      "area": "Ursvik",
+      "city": "Sundbyberg",
+      "parkingLot": "Ursvik Car Park",
+      "gpsCoordinates": "59.3731, 17.9352"
+    }
+  },
+  {
+    "id": "SEURS5921",
+    "name": "Enigma10",
+    "model": "Enigma Charger Model Y",
+    "manufacturer": "EnigmaCorp",
+    "type": "EV Charger Digital Twin",
+    "powerOutputKw": 250,
+    "location": {
+      "area": "Ursvik",
+      "city": "Sundbyberg",
+      "parkingLot": "Ursvik Car Park",
+      "gpsCoordinates": "59.3731, 17.9352"
+    }
+  },
+  {
+    "id": "SEURS8534",
+    "name": "Enigma11",
+    "model": "Enigma Charger Model Z",
+    "manufacturer": "EnigmaCorp",
+    "type": "EV Charger Digital Twin",
+    "powerOutputKw": 350,
+    "location": {
+      "area": "Ursvik",
+      "city": "Sundbyberg",
+      "parkingLot": "Ursvik Car Park",
+      "gpsCoordinates": "59.3731, 17.9352"
+    }
+  },
+  {
+    "id": "SEURS9012",
+    "name": "Enigma12",
+    "model": "Enigma Charger Model Z",
+    "manufacturer": "EnigmaCorp",
+    "type": "EV Charger Digital Twin",
+    "powerOutputKw": 350,
+    "location": {
+      "area": "Ursvik",
+      "city": "Sundbyberg",
+      "parkingLot": "Ursvik Car Park",
+      "gpsCoordinates": "59.3731, 17.9352"
+    }
+  }
+]
