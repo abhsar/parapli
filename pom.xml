@@ -65,15 +65,6 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
-            <plugin>
-                <groupId>com.google.cloud.tools</groupId>
-                <artifactId>appengine-maven-plugin</artifactId>
-                <version>2.5.0</version>
-                <configuration>
-                    <projectId>GCLOUD_CONFIG</projectId>
-                    <version>1</version>
-                </configuration>
-            </plugin>
         </plugins>
     </build>
 
