@@ -1,0 +1,75 @@
+{
+  "Statuses": {
+    "Available": {
+      "id": 0,
+      "description": "Connector is idle, unlocked, and ready.",
+      "telemetry_validation": {
+        "voltage_V": 232.1,
+        "current_A": 0.0,
+        "power_kW": 0.0,
+        "contactor_closed": false
+      }
+    },
+    "Preparing": {
+      "id": 1,
+      "description": "Vehicle plugged in; waiting for authentication or authorization.",
+      "telemetry_validation": {
+        "voltage_V": 232.1,
+        "current_A": 0.0,
+        "power_kW": 0.0,
+        "contactor_closed": false
+      }
+    },
+    "Charging": {
+      "id": 2,
+      "description": "Contactor is closed; energy is actively flowing.",
+      "telemetry_validation": {
+        "voltage_V": 228.4,
+        "current_A": 32.0,
+        "power_kW": 7.31,
+        "contactor_closed": true
+      }
+    },
+    "SuspendedEV": {
+      "id": 3,
+      "description": "Vehicle is plugged in, but the EV has paused the charge.",
+      "telemetry_validation": {
+        "voltage_V": 232.1,
+        "current_A": 0.0,
+        "power_kW": 0.0,
+        "contactor_closed": true
+      }
+    },
+    "SuspendedEVSE": {
+      "id": 4,
+      "description": "Vehicle is plugged in, but the charger/grid has paused the charge.",
+      "telemetry_validation": {
+        "voltage_V": 232.1,
+        "current_A": 0.0,
+        "power_kW": 0.0,
+        "contactor_closed": true
+      }
+    },
+    "Finishing": {
+      "id": 5,
+      "description": "Session has stopped; cable remains connected.",
+      "telemetry_validation": {
+        "voltage_V": 232.1,
+        "current_A": 0.0,
+        "power_kW": 0.0,
+        "contactor_closed": false
+      }
+    },
+    "Reserved": {
+      "id": 6,
+      "description": "Connector is locked for a specific remote reservation.",
+      "telemetry_validation": {
+        "voltage_V": 232.1,
+        "current_A": 0.0,
+        "power_kW": 0.0,
+        "contactor_closed": false
+      }
+    }
+
+  }
+}
